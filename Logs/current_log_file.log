@@ -1,0 +1,13 @@
+19/12/2023 08:41:10 AM: INFO: getStarted_steps: step_open_chrome_browser: Launch Chrome Opened
+19/12/2023 08:41:13 AM: INFO: getStarted_steps: step_open_chrome_browser: Launch Chrome Opened
+19/12/2023 08:41:19 AM: INFO: getStarted_steps: step_open_credmudra_homepage: Open Credmudra homepage
+19/12/2023 08:41:19 AM: INFO: getStarted_steps: step_click_get_matched_now_button: Get Matched Now ! Button Pressed Succesfully
+19/12/2023 08:41:19 AM: INFO: getStarted_steps: step_enter_invalid_contact_number: Enter invalid contact number
+19/12/2023 08:41:19 AM: INFO: getStarted_steps: step_show_error_message: Must be a 10-digit number
+19/12/2023 08:41:25 AM: INFO: getStarted_steps: step_open_chrome_browser: Launch Chrome Opened
+19/12/2023 08:41:28 AM: INFO: getStarted_steps: step_open_chrome_browser: Launch Chrome Opened
+19/12/2023 08:41:30 AM: INFO: getStarted_steps: step_open_credmudra_homepage: Open Credmudra homepage
+19/12/2023 08:41:30 AM: INFO: getStarted_steps: step_click_get_matched_now_button: Get Matched Now ! Button Pressed Succesfully
+19/12/2023 08:41:30 AM: INFO: getStarted_steps: step_enter_valid_contact_number: Enter valid contact number
+19/12/2023 08:41:31 AM: INFO: getStarted_steps: step_click_to_apply_button: Click to apply button
+19/12/2023 08:41:31 AM: INFO: getStarted_steps: step_show_otp_page: OTP Page is displayed
